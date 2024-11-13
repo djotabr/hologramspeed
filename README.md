@@ -1,6 +1,6 @@
 # MRI Hologram Speedometer
 
-Este projeto é baseado no recurso original [kasuganosoras/hologramspeed](https://github.com/kasuganosoras/hologramspeed), totalmente adaptado para a base **MRI_QBox** com melhorias e funcionalidades adicionais para o servidor **Orion RolePlay**.
+Este projeto é baseado no recurso original [kasuganosoras/hologramspeed](https://github.com/kasuganosoras/hologramspeed), totalmente adaptado para a base **MRI_QBox** com melhorias e funcionalidades adicionais para o servidor .
 
 ## Principais Funcionalidades
 
@@ -19,7 +19,7 @@ Este projeto é baseado no recurso original [kasuganosoras/hologramspeed](https:
    ```plaintext
    /hsp theme mri
 
-**Abaixo segue a descrição original do resource
+**Abaixo segue a descrição original do resource**
 # Hologram Speedometer
 Hologram Speedometer for FiveM
 
