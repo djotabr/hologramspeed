@@ -1,0 +1,14 @@
+:root {
+	--text-color: rgba(255, 255, 255, 0.938);
+	--text-inactive: rgba(45,45,45,0.2);
+
+	--speed-digit-active: rgb(15, 231, 112);
+	--speed-digit-inactive: rgba(45,45,45,0.2);
+
+	--gear-normal: rgb(0, 33, 15);
+	--gear-overload: rgb(31, 0, 0);
+	--gear-reverse: #ffd900;
+
+	--rpm-background: rgb(45, 45, 45);
+	--rpm-fill: rgb(255, 0, 0);
+}
